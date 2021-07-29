@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **React JS, Node JS and SQL**
 
-- 👨‍💻 All of my projects are available at [https://esdee-reign.github.io/My-Website/](https://esdee-reign.github.io/My-Website/)
+- 👨‍💻 All of my projects are available at [Portfolio site](https://esdee-reign.github.io/My-Website/)
 
 - 💬 Ask me about **UI Design and music ;)**
 
 - 📫 How to reach me **snehdeepsingh221199@gmal.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1kI5HL25p2_SJvazCmuxAkADO7if56VW0/view?usp=sharing](https://drive.google.com/file/d/1kI5HL25p2_SJvazCmuxAkADO7if56VW0/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1kI5HL25p2_SJvazCmuxAkADO7if56VW0/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
