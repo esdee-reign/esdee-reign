@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=esdee-reign" alt="esdee-reign" /></a> </p>
 
-- 🔭 I’m currently working on **Project Shopping Cart**
-
 - 🌱 I’m currently learning **React JS, Node JS and SQL**
 
 - 👨‍💻 All of my projects are available at [Portfolio site](https://esdee-reign.github.io/My-Website/)
