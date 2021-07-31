@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **React JS, Node JS and SQL**
 
-- 👨‍💻 All of my projects are available at [Portfolio site](https://esdee-reign.github.io/My-Website/)
-
 - 💬 Ask me about **UI Design and music ;)**
 
 - 📫 How to reach me **snehdeepsingh221199@gmal.com**
