@@ -5,14 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=esdee-reign" alt="esdee-reign" /></a> </p>
 
-- 🌱 I’m currently learning **Node Js and Mongo DB**
-
-- 💬 Ask me about **UI Design and music ;)**
-
-- 📫 How to reach me **snehdeepsingh221199@gmal.com**
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1kI5HL25p2_SJvazCmuxAkADO7if56VW0/view?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/esdee_reign" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="esdee_reign" height="30" width="40" /></a>
